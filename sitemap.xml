@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[BNBU Handbook]]></title>
+        <description><![CDATA[An open source comprehensive guide to BNBU.]]></description>
+        <link>https://phoenixtechproject.github.io/BNBUHandbook/</link>
+        <image>
+            <url>https://phoenixtechproject.github.io/BNBUHandbook/assets/icon/book.png</url>
+            <title>BNBU Handbook</title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 17 Aug 2025 05:02:02 GMT</lastBuildDate>
+        <atom:link href="https://phoenixtechproject.github.io/BNBUHandbook/sitemap.xml" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Denys Dovhan]]></author>
+        <copyright><![CDATA[©2025 PhoenixTech Project]]></copyright>
+        <language><![CDATA[zh-hans]]></language>
+        <managingEditor><![CDATA[hanjiangxue@hamiltonblog.cn (Frost Hamilton)]]></managingEditor>
+        <webMaster><![CDATA[hanjiangxue@hamiltonblog.cn (Frost Hamilton)]]></webMaster>
+        <item>
+            <title><![CDATA[🏫 BNBU 手册]]></title>
+            <description><![CDATA[欢迎使用 BNBU 手册！]]></description>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[📰 文文新闻编辑部]]></title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/news/README.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/news/README.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[📒 黄页]]></title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/yellowpages/README.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/yellowpages/README.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[📅 2025-2026 第二学期校历]]></title>
+            <description><![CDATA[{% pdf src="../assets/calendar/S2ofAY2025-26.pdf", width="100%", height="1100", link=false %}{% endpdf %}]]></description>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/calendar/README.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/calendar/README.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[🎓 学科部门]]></title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/faculty/README.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/faculty/README.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[🏢 区域及楼栋]]></title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/buildings/README.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/buildings/README.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[🍽️ 餐厅服务]]></title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/canteen/README.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/canteen/README.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[🎠 社团活动]]></title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/association/README.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/association/README.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[🖥️ 技术文档]]></title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/tech/README.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/tech/README.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[📲 社媒网络]]></title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/sns/README.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/sns/README.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[🚎 交通设施]]></title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/traffic/README.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/traffic/README.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[📍 周边]]></title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/local/README.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/local/README.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[🗒️ 待办]]></title>
+            <link>https://phoenixtechproject.github.io/BNBUHandbook/about/todo.html</link>
+            <guid isPermaLink="true">https://phoenixtechproject.github.io/BNBUHandbook/about/todo.html</guid>
+            <dc:creator><![CDATA[Denys Dovhan]]></dc:creator>
+        </item>
+    </channel>
+</rss>
