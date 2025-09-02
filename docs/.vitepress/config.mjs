@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-
+import lightbox from "vitepress-plugin-lightbox"
 export default defineConfig({
   title: 'BNBU Handbook',
   description: 'A comprehensive BNBU Encyclopaedia',
@@ -7,8 +7,8 @@ export default defineConfig({
   // CHANGE base TO "/" WHEN DEPLOY ON THE MAIN BRANCH
   head: [
     ['link', { rel: 'icon', href: '/book.svg' }],   // 这里的路径是相对于站点根目录的/public，下面给出警告：
-// Files in the public directory are served at the root path.
-// Instead of /public/book.svg, use /book.svg.
+    // Files in the public directory are served at the root path.
+    // Instead of /public/book.svg, use /book.svg.
 
     // Google Analytics Code
     [
@@ -28,7 +28,7 @@ export default defineConfig({
       "script",
       {
         defer: "",
-        src:   "https://cloud.umami.is/script.js",
+        src: "https://cloud.umami.is/script.js",
         "data-website-id": "727c0b14-c3eb-4791-b8c6-5e2ab54c20e1",
       },
     ],
@@ -84,8 +84,8 @@ export default defineConfig({
 
     // 编辑链接
     editLink: {
-        pattern: "https://github.com/PhoenixTechProject/BNBUHandbook/edit/main/docs/:path",
-        text: "Edit This Page"
+      pattern: "https://github.com/PhoenixTechProject/BNBUHandbook/edit/main/docs/:path",
+      text: "Edit This Page"
     },
 
     // 页脚信息
@@ -195,10 +195,10 @@ export default defineConfig({
           text: '🚎 交通设施',
           collapsed: false,
           items: [
-            { text: '🚌 道路运输', link: '/zh-cn/transportation/road'},
-            { text: '🚉 铁路运输', link: '/zh-cn/transportation/rail'},
-            { text: '🚢 水路运输', link: '/zh-cn/transportation/waterborne'},
-            { text: '✈️ 航空运输', link: '/zh-cn/transportation/air'},
+            { text: '🚌 道路运输', link: '/zh-cn/transportation/road' },
+            { text: '🚉 铁路运输', link: '/zh-cn/transportation/rail' },
+            { text: '🚢 水路运输', link: '/zh-cn/transportation/waterborne' },
+            { text: '✈️ 航空运输', link: '/zh-cn/transportation/air' },
           ],
         },
         {
@@ -210,7 +210,7 @@ export default defineConfig({
           ],
         },
       ],
-    
+
       '/zh-yue/': [
         {
           text: '簡介',
@@ -300,10 +300,10 @@ export default defineConfig({
           text: '🚎 交通設施',
           collapsed: false,
           items: [
-            { text: '🚌 道路运输', link: '/zh-yue/transportation/road'},
-            { text: '🚉 鐵路運輸', link: '/zh-yue/transportation/rail'},
-            { text: '🚢 水路運輸', link: '/zh-yue/transportation/waterborne'},
-            { text: '✈️ 航空運輸', link: '/zh-yue/transportation/air'},
+            { text: '🚌 道路运输', link: '/zh-yue/transportation/road' },
+            { text: '🚉 鐵路運輸', link: '/zh-yue/transportation/rail' },
+            { text: '🚢 水路運輸', link: '/zh-yue/transportation/waterborne' },
+            { text: '✈️ 航空運輸', link: '/zh-yue/transportation/air' },
           ],
         },
         {
@@ -315,7 +315,7 @@ export default defineConfig({
           ],
         },
       ],
-    
+
       '/en-us/': [
         {
           text: 'Introduction',
@@ -405,10 +405,10 @@ export default defineConfig({
           text: '🚎 Transportation',
           collapsed: false,
           items: [
-            { text: '🚌 Road Transport', link: '/en-us/transportation/road'},
-            { text: '🚉 Rail Transport', link: '/en-us/transportation/rail'},
-            { text: '🚢 Water Transport', link: '/en-us/transportation/waterborne'},
-            { text: '✈️ Air Transport', link: '/en-us/transportation/air'},
+            { text: '🚌 Road Transport', link: '/en-us/transportation/road' },
+            { text: '🚉 Rail Transport', link: '/en-us/transportation/rail' },
+            { text: '🚢 Water Transport', link: '/en-us/transportation/waterborne' },
+            { text: '✈️ Air Transport', link: '/en-us/transportation/air' },
           ],
         },
         {
@@ -421,5 +421,13 @@ export default defineConfig({
         },
       ]
     }
+  },
+
+  markdown: {
+    config: (md) => {
+      // Lightbox插件
+      md.use(lightbox, {});
+    },
   }
+
 })
