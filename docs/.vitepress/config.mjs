@@ -141,6 +141,7 @@ export default defineConfig({
           text: '🗓️ 校历',
           collapsed: false,
           items: [
+            { text: '📅 2025-2026 第一学期校历', link: '/zh-cn/calendar/S1ofAY2025-26' },
             { text: '📅 2025-2026 第二学期校历', link: '/zh-cn/calendar/S2ofAY2025-26' },
           ],
         },
