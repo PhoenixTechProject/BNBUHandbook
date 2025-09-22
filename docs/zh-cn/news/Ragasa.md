@@ -24,30 +24,31 @@
 
 ## 台风信息
 
-<!-- 台风 JSON 数据 -->
 <div id="typhoon">正在加载台风数据...</div>
-<script>
-  async function loadTyphoon() {
-    try {
-      const res = await fetch("https://free.xwteam.cn/api/weather/typhoon");
-      const json = await res.json();
-      const d = json.data;
 
-      let html = `
-        <p><b>中文名：</b>${d.cn_name}</p>
-        <p><b>英文名：</b>${d.en_name}</p>
-        <p><b>编号：</b>${d.windid}</p>
-        <p><b>更新时间：</b>${d.end_time}</p>
-        <p><b>位置：</b>${d.location}</p>
-      `;
+<script setup>
+import { onMounted } from 'vue'
 
-      document.getElementById("typhoon").innerHTML = html;
-    } catch (err) {
-      document.getElementById("typhoon").innerHTML = "获取数据失败";
-      console.error(err);
-    }
+onMounted(async () => {
+  try {
+    const res = await fetch("https://free.xwteam.cn/api/weather/typhoon");
+    const json = await res.json();
+    const d = json.data;
+
+    let html = `
+      <p><b>中文名：</b>${d.cn_name}</p>
+      <p><b>英文名：</b>${d.en_name}</p>
+      <p><b>编号：</b>${d.windid}</p>
+      <p><b>更新时间：</b>${d.end_time}</p>
+      <p><b>位置：</b>${d.location}</p>
+    `;
+
+    document.getElementById("typhoon").innerHTML = html;
+  } catch (err) {
+    document.getElementById("typhoon").innerHTML = "获取数据失败";
+    console.error(err);
   }
-  loadTyphoon();
+})
 </script>
 
 <!-- SMG 页面嵌入 -->
