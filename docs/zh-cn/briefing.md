@@ -10,7 +10,7 @@
 
 <div id="ipinfo">您好，远道而来的友人！</div><br>
 
-<script setup>
+<script>
 import { onMounted } from 'vue'
 
 onMounted(async () => {
