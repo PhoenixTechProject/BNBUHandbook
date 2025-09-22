@@ -1,6 +1,8 @@
 <script setup>
 import Weather from '../.vitepress/theme/components/Weather.vue'
 import IPInfo from '../.vitepress/theme/components/IPInfo.vue'
+import IPWeather from '../.vitepress/theme/components/IPWeather.vue'
+import lunar from '../.vitepress/theme/components/lunar.vue'
 </script>
 
 > 普通话（大陆简体）分支维护者：[寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada)
@@ -11,9 +13,13 @@ import IPInfo from '../.vitepress/theme/components/IPInfo.vue'
 > [!TIP]
 > 若您感到加载速度太慢，[点击链接](/switch)即可转换至镜像站
 
-# 💾 前言
+<lunar />
 
 <IPInfo />
+
+<IPWeather />
+
+# 💾 前言
 
 欢迎使用 BNBU 手册！
 
