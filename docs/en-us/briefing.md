@@ -61,7 +61,6 @@ BNBU Handbook Project has an official chat group. You can choose to join and com
 
 | Platform | Link | Note |
 |:-----:|:-----:|-----|
-| QQ | 728748053 | Real info required for nicknames |
 | WeChat | Invitation Only | Real info required for nickname |
 
 
