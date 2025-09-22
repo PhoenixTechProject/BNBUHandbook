@@ -49,9 +49,9 @@ async function loadTyphoon() {
       <p><b>位置：</b>${d.location}</p>
     `;
 
-    document.getElementById("typhoon").innerHTML = html;
+    d.getElementById("typhoon").innerHTML = html;
   } catch (err) {
-    document.getElementById("typhoon").innerHTML = "获取数据失败";
+    d.getElementById("typhoon").innerHTML = "获取数据失败";
     console.error(err);
   }
 }
