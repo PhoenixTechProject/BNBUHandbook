@@ -37,6 +37,42 @@
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
 
+## 珠海市香洲区本周天气预报
+
+<div id="weather">正在加载天气数据...</div>
+
+<script setup>
+import { onMounted } from 'vue'
+
+onMounted(async () => {
+  try {
+    const res = await fetch("https://v2.xxapi.cn/api/weather?city=香洲");
+    const json = await res.json();
+    const d = json.data.data;
+
+    let html = `<table border="1" cellspacing="0" cellpadding="5">
+                  <tr>
+                    <th>日期</th><th>天气</th><th>温度</th><th>风向</th><th>空气质量</th>
+                  </tr>`;
+    d.forEach(item => {
+      html += `<tr>
+                 <td>${item.date}</td>
+                 <td>${item.weather}</td>
+                 <td>${item.temperature}</td>
+                 <td>${item.wind}</td>
+                 <td>${item.air_quality}</td>
+               </tr>`;
+    });
+    html += `</table>`;
+
+    document.getElementById("weather").innerHTML = html;
+  } catch (e) {
+    document.getElementById("weather").innerHTML = "❌ 加载失败，请稍后再试";
+  }
+})
+</script>
+
+
 ## 恶劣天气应对方案
 <sub>2025年9月18日起实施</sub>
 
