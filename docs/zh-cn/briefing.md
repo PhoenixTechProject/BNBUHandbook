@@ -1,7 +1,7 @@
 > 普通话（大陆简体）分支维护者：[寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada)
 
 > [!WARNING]
-> 针对于超强台风“桦加沙”的预警正在生效中，[点击查看更多资讯](/zh-cn/news/)。
+> 针对于超强台风“桦加沙”的预警正在生效中，[点击查看更多资讯](/zh-cn/news/Ragasa)。
 
 > [!TIP]
 > 若您感到加载速度太慢，[点击链接](/switch)即可转换至镜像站
