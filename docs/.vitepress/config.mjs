@@ -120,6 +120,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '📸 文文新闻编辑部', link: '/zh-cn/news/' },
+            { text: '🌀 超强台风“桦加沙”实时资讯', link: '/zh-cn/news/' },
           ],
         },
         {
@@ -196,6 +197,7 @@ export default defineConfig({
           text: '🚎 交通设施',
           collapsed: false,
           items: [
+            { text: '🛣️ 交通出行', link: '/zh-cn/transportation/intro' },
             { text: '🚌 道路运输', link: '/zh-cn/transportation/road' },
             { text: '🚉 铁路运输', link: '/zh-cn/transportation/rail' },
             { text: '🚢 水路运输', link: '/zh-cn/transportation/waterborne' },

@@ -1,4 +1,7 @@
-> 普通话（大陆简体）分支维护者：[寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)
+> 普通话（大陆简体）分支维护者：[寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada)
+
+> [!WARNING]
+> 针对于超强台风“桦加沙”的预警正在生效中，[点击查看更多资讯](/zh-cn/news/)。
 
 > [!TIP]
 > 若您感到加载速度太慢，[点击链接](/switch)即可转换至镜像站
@@ -33,6 +36,31 @@
 :::
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
+
+## 恶劣天气应对方案<sub>2025年9月18日起实施</sub>
+
+* **台风**
+
+| 图标信号 | 文字信号 | 实施方案 |
+|:-----:|:-----:|-----|
+| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Red_typhoon_alert_-_China.svg) | 台风红色预警信号 | 1. 如在早上 6 点至 10 点 59 分之间生效，则上午 8 点至下午 1 点 50 分之间的课程/考试将被取消。 2. 如在上午 11 点起生效，下午 2 点至晚上 9 点 50 分之间的课程/考试将被取消。3. 如在上课期间生效，课程立即取消。4. 如在在考试期间生效，考试将持续到结束为止。 |
+| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Orange_typhoon_alert_-_China.svg) | 台风橙色预警信号 | 1. 如在早上 6 点至 10 点 59 分之间生效，则上午 8 点至下午 1 点 50 分之间的课程/考试将被取消。 2. 如在上午 11 点起生效，下午 2 点至晚上 9 点 50 分之间的课程/考试将被取消。3. 如在上课期间生效，课程立即取消。4. 如在在考试期间生效，考试将持续到结束为止。 |
+| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Yellow_typhoon_alert_-_China.svg) | 台风黄色预警信号 | 课程、考试将按原计划进行。 |
+| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Blue_typhoon_alert_-_China.svg) | 台风蓝色预警信号 | 课程、考试将按原计划进行。 |
+| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Typhoon_White_2015_(Guangdong).png) | 台风白色预警信号 | 课程、考试将按原计划进行。 |
+
+<sub>如果台风红色信号或橙色信号在上午 10 点 59 分生效，但在上午 11 点降至台风黄色信号、蓝色信号、白色信号，则下午的上课、考试（如在下午 2 点至晚上 9点 50 分之间）照常进行</sub>
+
+* **暴雨**
+
+| 图标信号 | 文字信号 | 实施方案 |
+|:-----:|:-----:|-----|
+| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Red_rain_storm_alert_-_China.svg) | 暴雨红色预警信号 | 1. 如在早上 6 点至 上午 10 点 59 分之间生效，则上午 8 点至晚上 9 点 50 分之间的课程/考试将被取消。 2. 如在中午 12 点起生效，下午 2 点至晚上 9 点 50 分之间的课程/考试将被取消。3. 如在上课期间生效，课程立即取消。4. 如在在考试期间生效，考试将持续到结束为止。 |
+| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Orange_rain_storm_alert_-_China.svg) | 暴雨橙色预警信号 | 课程、考试将按原计划进行。 |
+| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Yellow_rain_storm_alert_-_China.svg) | 暴雨黄色预警信号 | 课程、考试将按原计划进行。 |
+| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Blue_rain_storm_alert_-_China.svg) | 暴雨蓝色预警信号 | 课程、考试将按原计划进行。 |
+
+<sub>如果暴雨红色预警信号在上午 6点 至 11 点 59 分之间生效，则无论什么时候全天的课程、考试都将被取消</sub>
 
 ## ✍️ 加入协作
 
@@ -79,7 +107,7 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
 
 | 语言 | 链接 | 状态 | 维护者 |
 |:-----:|:-----:|:-----:|:-----:|
-| 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton) |
+| 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada) |
 | 粵語（香港繁體） | [連結](https://bnbutech.cn/zh-yue/) | 維護良好 ✅ | [TurboHK](https://github.com/TurboHK) |
 | English | [Link](https://bnbutech.cn/en-us/) | Under Maintenance 🚧 | [DeepL](https://www.deepl.com) |
 
@@ -94,7 +122,7 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
 | 署名 | 贡献 | 备注 |
 |:-----:|:-----:|-----|
 | 派大星 | 条目撰写 | 主要执笔人之一 |
-
+| [ShiJimmy](https://github.com/ShiJimmy) | 交通栏目 | 主要执笔人 | 
 ## 许可
 
 本项目源码托管于 GitHub，页面托管于 GitHub Page，源码采用 [MIT 开源许可](https://mit-license.org/)。
