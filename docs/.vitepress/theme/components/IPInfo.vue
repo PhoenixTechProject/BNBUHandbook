@@ -12,7 +12,7 @@ onMounted(async () => {
   el.innerHTML = `<div style="text-align:center;">您好，远道而来的友人！</div>`
 
   try {
-    const res = await fetch("http://ip-api.com/json?lang=zh-CN")
+    const res = await fetch("https://ip-api.com/json?lang=zh-CN")
     const json = await res.json()
 
     const html = `<div style="text-align:center;">
