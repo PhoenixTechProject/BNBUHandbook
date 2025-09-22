@@ -6,7 +6,7 @@
 > [!TIP]
 > 若您感到加载速度太慢，[点击链接](/switch)即可转换至镜像站
 
-# 前言
+# 💾 前言
 
 欢迎使用 BNBU 手册！
 
@@ -14,7 +14,7 @@
 
 在这里你可以获取 BNBU 的绝大部分资讯，同时这也是前人所留下有价值的信息遗产，有助你在未来四年的本科生涯中弯道超车 。
 
-## BNBU Mobile
+## 📱 BNBU Mobile
 
 这是我们开发的一款 BNBU 校园一站通应用。在 BNBU Mobile 上你可以轻松管理日程，并获得有用的课程、学术、生活及校园资讯。如欲下载或了解更多有关 BNBU Mobile 的信息，请按[**这里**](https://turbostudios.org/index.php/bnbu-mobile/)。
 <br><br>![BNBU Mobile](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/BNBU_Mobile_16x9_Enlarged.png)
@@ -37,7 +37,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
 
-## 珠海市香洲区本周天气预报
+## ⛅ 珠海市香洲区本周天气预报
 
 <div id="weather">正在加载天气数据...</div>
 
@@ -73,10 +73,10 @@ onMounted(async () => {
 </script>
 
 
-## 恶劣天气应对方案
+## 📂 恶劣天气应对方案
 <sub>2025年9月18日起实施</sub>
 
-* **台风**
+* **🌀 台风**
 
 | 图标信号 | 文字信号 | 实施方案 |
 |:-----:|:-----:|-----|
@@ -88,7 +88,7 @@ onMounted(async () => {
 
 <sub>如果台风红色信号或橙色信号在上午 10 点 59 分生效，但在上午 11 点降至台风黄色信号、蓝色信号、白色信号，则下午的上课、考试（如在下午 2 点至晚上 9点 50 分之间）照常进行</sub>
 
-* **暴雨**
+* **⛈️ 暴雨**
 
 | 图标信号 | 文字信号 | 实施方案 |
 |:-----:|:-----:|-----|
@@ -140,7 +140,7 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
 * Word 文件
 * TXT 文件
 
-## 语言分支维护情况
+## 🔨 语言分支维护情况
 
 | 语言 | 链接 | 状态 | 维护者 |
 |:-----:|:-----:|:-----:|:-----:|
@@ -148,19 +148,20 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
 | 粵語（香港繁體） | [連結](https://bnbutech.cn/zh-yue/) | 維護良好 ✅ | [TurboHK](https://github.com/TurboHK) |
 | English | [Link](https://bnbutech.cn/en-us/) | Under Maintenance 🚧 | [DeepL](https://www.deepl.com) |
 
-## 贡献者
+## ⛑️ 贡献者
 
 <a href="https://github.com/PhoenixTechProject/BNBUHandbook/graphs/contributors">
   <br><img src="https://contributors-img.web.app/image?repo=PhoenixTechProject/BNBUHandbook" />
 </a>
 
-## 特别致谢
+## 🪧 特别致谢
 
 | 署名 | 贡献 | 备注 |
 |:-----:|:-----:|-----|
 | 派大星 | 条目撰写 | 主要执笔人之一 |
 | [ShiJimmy](https://github.com/ShiJimmy) | 交通栏目 | 主要执笔人 | 
-## 许可
+
+## 📖 许可
 
 本项目源码托管于 GitHub，页面托管于 GitHub Page，源码采用 [MIT 开源许可](https://mit-license.org/)。
 
