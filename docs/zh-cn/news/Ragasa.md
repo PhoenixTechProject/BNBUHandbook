@@ -19,6 +19,7 @@
 </style>
 
 <span class="dot"></span> ***LIVE UP TO DATE***
+
 <sub>文文新闻编辑部珠海 9 月 22 日讯</sub>
 
 ## 台风信息
@@ -54,8 +55,10 @@ async function loadTyphoon() {
     document.getElementById("typhoon").innerHTML = "获取数据失败";
     console.error(err);
   }
-  loadTyphoon();
-  setInterval(loadTyphoon, 30 * 60 * 1000);
+  if (typeof window !== 'undefined') {
+    loadTyphoon();
+    setInterval(loadTyphoon, 30 * 60 * 1000);
+  }
 }
 </script>
 
