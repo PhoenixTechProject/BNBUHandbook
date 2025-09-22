@@ -49,17 +49,14 @@ async function loadTyphoon() {
       <p><b>位置：</b>${d.location}</p>
     `;
 
-    d.getElementById("typhoon").innerHTML = html;
+    document.getElementById("typhoon").innerHTML = html;
   } catch (err) {
-    d.getElementById("typhoon").innerHTML = "获取数据失败";
+    document.getElementById("typhoon").innerHTML = "获取数据失败";
     console.error(err);
   }
+  loadTyphoon();
+  setInterval(loadTyphoon, 30 * 60 * 1000);
 }
-
-// 初次加载
-loadTyphoon();
-// 每 30 分钟刷新
-setInterval(loadTyphoon, 30 * 60 * 1000);
 </script>
 
 
