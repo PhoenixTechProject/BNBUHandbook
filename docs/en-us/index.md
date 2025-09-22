@@ -16,9 +16,6 @@ hero:
       text: Switch Site
       link: /switch
     - theme: alt
-      text: Visitor Statistics
-      link: https://cloud.umami.is/share/ObjV428L9D0EjU99/bnbutech.cn
-    - theme: alt
       text: Contribute
       link: https://github.com/PhoenixTechProject/BNBUHandbook
 

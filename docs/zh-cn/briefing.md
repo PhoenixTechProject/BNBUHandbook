@@ -8,6 +8,29 @@
 
 # 💾 前言
 
+<div id="ipinfo">您好，远道而来的友人！</div><br>
+
+<script setup>
+import { onMounted } from 'vue'
+
+onMounted(async () => {
+  const el = document.getElementById("ipinfo")
+  el.innerHTML = "您好，远道而来的友人！"
+  try {
+    const res = await fetch("http://ip-api.com/json?lang=zh-CN")
+    const json = await res.json()
+
+    let html = `<div style="text-align:center;">
+      您好，来自 <strong>${json.country}${json.regionName}${json.city}</strong> 的朋友！<br/><br/>
+    </div>`
+
+    el.innerHTML = html
+  } catch (e) {
+    el.innerHTML = "您好，远道而来的友人！"
+  }
+})
+</script>
+
 欢迎使用 BNBU 手册！
 
 本企划将为 BNBUer 提供快捷信息查询服务。

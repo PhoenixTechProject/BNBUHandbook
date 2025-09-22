@@ -16,9 +16,6 @@ hero:
       text: 切換源站
       link: /switch
     - theme: alt
-      text: 訪客統計
-      link: https://cloud.umami.is/share/ObjV428L9D0EjU99/bnbutech.cn
-    - theme: alt
       text: 貢獻
       link: https://github.com/PhoenixTechProject/BNBUHandbook
 
