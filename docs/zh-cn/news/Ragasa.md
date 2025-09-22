@@ -93,20 +93,3 @@ setInterval(loadTyphoon, 30 * 60 * 1000);
 9 月24 日全天：广东省内所有高铁、普速列车停运；
 
 9 月 25 日凌晨起：将根据台风影响减弱情况，逐步恢复列车开行，具体恢复车次将动态更新。
-
-<script src="https://giscus.app/client.js"
-        data-repo="PhoenixTechProject/BNBUHandbook"
-        data-repo-id="R_kgDOPe_glA"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOPe_glM4CuPpv"
-        data-mapping="pathname"
-        data-strict="1"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
