@@ -26,6 +26,29 @@
 
 <!-- 台风 JSON 数据 -->
 <div id="typhoon">正在加载台风数据...</div>
+<script>
+  async function loadTyphoon() {
+    try {
+      const res = await fetch("https://free.xwteam.cn/api/weather/typhoon");
+      const json = await res.json();
+      const d = json.data;
+
+      let html = `
+        <p><b>中文名：</b>${d.cn_name}</p>
+        <p><b>英文名：</b>${d.en_name}</p>
+        <p><b>编号：</b>${d.windid}</p>
+        <p><b>更新时间：</b>${d.end_time}</p>
+        <p><b>位置：</b>${d.location}</p>
+      `;
+
+      document.getElementById("typhoon").innerHTML = html;
+    } catch (err) {
+      document.getElementById("typhoon").innerHTML = "获取数据失败";
+      console.error(err);
+    }
+  }
+  loadTyphoon();
+</script>
 
 <!-- SMG 页面嵌入 -->
 <iframe src="https://www.smg.gov.mo/zh/subpage/28/typhoon-other" 
@@ -34,33 +57,6 @@
         style="border:1px solid #ccc; margin-top:20px;">
   您的浏览器不支持 iframe。
 </iframe>
-
-<script>
-async function loadTyphoon() {
-  try {
-    const res = await fetch("https://free.xwteam.cn/api/weather/typhoon");
-    const json = await res.json();
-    const d = json.data;
-
-    let html = `
-      <p><b>中文名：</b>${d.cn_name}</p>
-      <p><b>英文名：</b>${d.en_name}</p>
-      <p><b>编号：</b>${d.windid}</p>
-      <p><b>更新时间：</b>${d.end_time}</p>
-      <p><b>位置：</b>${d.location}</p>
-    `;
-
-    document.getElementById("typhoon").innerHTML = html;
-  } catch (err) {
-    document.getElementById("typhoon").innerHTML = "获取数据失败";
-    console.error(err);
-  }
-  if (typeof window !== 'undefined') {
-    loadTyphoon();
-    setInterval(loadTyphoon, 30 * 60 * 1000);
-  }
-}
-</script>
 
 
 目前超强台风“桦加沙”（17 级，62 米/秒）中心位于珠海东南方约 1050 公里的西北太平洋洋面上。预计其将在 23 日凌晨进入南海，24 日以强台风或超强台风级在广东省中西部沿海地区登陆。
