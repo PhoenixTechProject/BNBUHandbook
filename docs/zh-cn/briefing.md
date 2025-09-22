@@ -37,7 +37,8 @@
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
 
-## 恶劣天气应对方案<sub>2025年9月18日起实施</sub>
+## 恶劣天气应对方案
+<sub>2025年9月18日起实施</sub>
 
 * **台风**
 
@@ -60,7 +61,7 @@
 | ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Yellow_rain_storm_alert_-_China.svg) | 暴雨黄色预警信号 | 课程、考试将按原计划进行。 |
 | ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Blue_rain_storm_alert_-_China.svg) | 暴雨蓝色预警信号 | 课程、考试将按原计划进行。 |
 
-<sub>如果暴雨红色预警信号在上午 6点 至 11 点 59 分之间生效，则无论什么时候全天的课程、考试都将被取消</sub>
+<sub>如果暴雨红色预警信号在上午 6 点 至 11 点 59 分之间生效，则无论什么时候全天的课程、考试都将被取消</sub>
 
 ## ✍️ 加入协作
 
