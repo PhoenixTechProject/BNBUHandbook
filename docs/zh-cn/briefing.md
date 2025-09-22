@@ -1,3 +1,8 @@
+<script setup>
+import Weather from '../.vitepress/theme/components/Weather.vue'
+import IPInfo from '../.vitepress/theme/components/IPInfo.vue'
+</script>
+
 > 普通话（大陆简体）分支维护者：[寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada)
 
 > [!WARNING]
@@ -8,28 +13,7 @@
 
 # 💾 前言
 
-<div id="ipinfo">您好，远道而来的友人！</div><br>
-
-<script>
-import { onMounted } from 'vue'
-
-onMounted(async () => {
-  const el = document.getElementById("ipinfo")
-  el.innerHTML = "您好，远道而来的友人！"
-  try {
-    const res = await fetch("http://ip-api.com/json?lang=zh-CN")
-    const json = await res.json()
-
-    let html = `<div style="text-align:center;">
-      您好，来自 <strong>${json.country}${json.regionName}${json.city}</strong> 的朋友！<br/><br/>
-    </div>`
-
-    el.innerHTML = html
-  } catch (e) {
-    el.innerHTML = "您好，远道而来的友人！"
-  }
-})
-</script>
+<IPInfo />
 
 欢迎使用 BNBU 手册！
 
@@ -62,39 +46,7 @@ onMounted(async () => {
 
 ## ⛅ 珠海市香洲区本周天气预报
 
-<div id="weather">正在加载天气数据...</div>
-
-<script setup>
-import { onMounted } from 'vue'
-
-onMounted(async () => {
-  try {
-    const res = await fetch("https://v2.xxapi.cn/api/weather?city=香洲");
-    const json = await res.json();
-    const d = json.data.data;
-
-    let html = `<table border="1" cellspacing="0" cellpadding="5">
-                  <tr>
-                    <th>日期</th><th>天气</th><th>温度</th><th>风向</th><th>空气质量</th>
-                  </tr>`;
-    d.forEach(item => {
-      html += `<tr>
-                 <td>${item.date}</td>
-                 <td>${item.weather}</td>
-                 <td>${item.temperature}</td>
-                 <td>${item.wind}</td>
-                 <td>${item.air_quality}</td>
-               </tr>`;
-    });
-    html += `</table>`;
-
-    document.getElementById("weather").innerHTML = html;
-  } catch (e) {
-    document.getElementById("weather").innerHTML = "❌ 加载失败，请稍后再试";
-  }
-})
-</script>
-
+<Weather />
 
 ## 📂 恶劣天气应对方案
 <sub>2025年9月18日起实施</sub>
