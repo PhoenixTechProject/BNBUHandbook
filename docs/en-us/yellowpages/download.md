@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 📱 Software
 
 ## Cisco AnyConnect

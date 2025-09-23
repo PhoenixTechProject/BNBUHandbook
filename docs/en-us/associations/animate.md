@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 🎆 UCCU Anime Club
 
 The UCCU Anime Club (Ultimate Comic & Cosplay Union) is a society at BNBU formed by students who love ACGN (Anime, Comic, Game, and Novel) culture. Through decades of dedicated management by successive generations of enthusiasts, it has grown into a club with over a hundred members. The UCCU Anime Club aims to provide BNBU students with a platform to exchange and share various ACGN information, organize activities, and promote the culture.

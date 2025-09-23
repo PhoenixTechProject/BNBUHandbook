@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 🧑‍🎓 Graduation Services
 
 ## Diploma Collection Schedule

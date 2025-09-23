@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # ⚙️ Other Clubs
 
 ## Career Development Association

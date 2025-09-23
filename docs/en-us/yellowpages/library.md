@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 📚 Library Services (LRC)
 
 ## Learning Resource Centre (Library LRC) Official Website

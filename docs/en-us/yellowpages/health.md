@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 🩺 Health
 
 ::: danger Note

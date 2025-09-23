@@ -147,10 +147,11 @@ export default defineConfig({
           ],
         },
         {
-          text: '🎓 学科部门',
+          text: '🎓 学科',
           collapsed: false,
           items: [
             { text: '🎓 学科部门', link: '/zh-cn/faculty/' },
+            { text: '💼 BNBU 转专业指南', link: '/zh-cn/faculty/transfer' },
           ],
         },
         {

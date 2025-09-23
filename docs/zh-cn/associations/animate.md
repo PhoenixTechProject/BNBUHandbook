@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 🎆 UCCU 动漫社
 
 UCCU 动漫社（Ultimate Comic&Cosplay Union）是 BNBU 一群热爱 ACGN 的同好汇聚在一起而形成的社团。经过一代代爱好者们十几年的悉心运营，已经发展成为一个百余人的社团。UCCU 动漫社致力于为 BNBU 学生打造交流分享各种 ACGN 资讯活动和推广的平台。
