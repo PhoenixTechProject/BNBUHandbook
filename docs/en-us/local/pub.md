@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 🍸 Bars
 
 > Author: Patrick Star, Hazel

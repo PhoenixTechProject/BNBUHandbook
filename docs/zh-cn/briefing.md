@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 <script setup>
 import Weather from '../.vitepress/theme/components/Weather.vue'
 import IPInfo from '../.vitepress/theme/components/IPInfo.vue'
@@ -7,8 +11,8 @@ import lunar from '../.vitepress/theme/components/lunar.vue'
 
 > 普通话（大陆简体）分支维护者：[寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada)
 
-> [!WARNING]
-> 针对于超强台风“桦加沙”的预警正在生效中，[点击查看更多资讯](/zh-cn/news/Ragasa)。
+> [!CAUTION]
+> 珠海市气象台于 9 月 23 日 14 时 00 分发布全市台风红色预警信号。针对于超强台风“桦加沙”的预警正在生效中，[点击查看更多资讯](/zh-cn/news/Ragasa)。
 
 > [!TIP]
 > 若您感到加载速度太慢，[点击链接](/switch)即可转换至镜像站
@@ -125,8 +129,8 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
 | 语言 | 链接 | 状态 | 维护者 |
 |:-----:|:-----:|:-----:|:-----:|
 | 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada) |
-| 粵語（香港繁體） | [連結](https://bnbutech.cn/zh-yue/) | 維護良好 ✅ | [TurboHK](https://github.com/TurboHK) |
-| English | [Link](https://bnbutech.cn/en-us/) | Under Maintenance 🚧 | [DeepL](https://www.deepl.com) |
+| 粵語（香港繁體） | [連結](https://bnbutech.cn/zh-yue/) | 略有滯後 🚧 | [TurboHK](https://github.com/TurboHK) |
+| English | [Link](https://bnbutech.cn/en-us/) | OUT OF DATE 🚧 | [DeepL](https://www.deepl.com) |
 
 ## ⛑️ 贡献者
 

@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 🛎️ Volunteer & Service Clubs
 
 ## Chuanglian Charity & Public Welfare Club

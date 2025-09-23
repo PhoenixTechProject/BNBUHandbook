@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 🛏️ Dormitory
 
 ## Property Management Office

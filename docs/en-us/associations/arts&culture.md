@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 🎙️ Cultural & Arts Clubs
 
 ## Photography & Visual Arts Club

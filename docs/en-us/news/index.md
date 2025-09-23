@@ -1,5 +1,5 @@
 ---
-description: Campus News Report
+comment: false
 ---
 
 # 📰 News

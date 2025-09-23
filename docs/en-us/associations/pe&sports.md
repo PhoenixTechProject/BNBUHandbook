@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 🏀 Sports Clubs
 
 ## Baseball Club

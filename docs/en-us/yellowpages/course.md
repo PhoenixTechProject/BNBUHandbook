@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # ✒️ Courses and Grade
 
 ## Make-up Exam Regulations

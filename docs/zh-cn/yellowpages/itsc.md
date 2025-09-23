@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 💻 信息资源服务（ITSC）
 
 ## 信息资源服务中心（ITSC）

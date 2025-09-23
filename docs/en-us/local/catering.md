@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 🥢 Catering
 
 > Author: Patrick Star

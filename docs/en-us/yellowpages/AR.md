@@ -1,3 +1,7 @@
+---
+comment: false
+---
+
 # 🗃️ Academic Registry (AR)
 
 ::: info Office Hours
