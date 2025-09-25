@@ -120,7 +120,6 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '📸 文文新闻编辑部', link: '/zh-cn/news/' },
-            { text: '🌀 超强台风“桦加沙”实时资讯', link: '/zh-cn/news/Ragasa' },
           ],
         },
         {
