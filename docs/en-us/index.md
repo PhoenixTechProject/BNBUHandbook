@@ -10,6 +10,9 @@ hero:
       text: Read Now
       link: /en-us/intro
     - theme: alt
+      text: Forum
+      link: https://forum.bnbutech.cn/
+    - theme: alt
       text: BNBU Mobile App
       link: https://turbostudios.org/index.php/bnbu-mobile/
     - theme: alt

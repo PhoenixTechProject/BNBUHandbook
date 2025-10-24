@@ -99,6 +99,7 @@ export default defineConfig({
     // 导航栏
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Forum', link: 'https://forum.bnbutech.cn/' },
       { text: 'Switch Site', link: '/switch' },
       { text: 'Statistics', link: 'https://cloud.umami.is/share/ObjV428L9D0EjU99/bnbutech.cn' },
       { text: 'PhoenixTech Project', link: 'https://github.com/PhoenixTechProject/' },
