@@ -10,6 +10,9 @@ hero:
       text: 开始阅读
       link: /zh-cn/intro
     - theme: alt
+      text: 论坛
+      link: https://forum.bnbutech.cn/
+    - theme: alt
       text: BNBU Mobile App
       link: https://turbostudios.org/index.php/bnbu-mobile/
     - theme: alt
