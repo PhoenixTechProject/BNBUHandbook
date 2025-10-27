@@ -32,7 +32,7 @@ import lunar from '../.vitepress/theme/components/lunar.vue'
 
 [BNBU 论坛](https://forum.bnbutech.cn/)现已开放，欢迎各位前来注册使用！
 
-请前往本手册内的[ BNBU 论坛](/BNBUForum)一栏进行使用了解！
+请前往本手册内的[ BNBU 论坛](/sns/BNBUForum)一栏进行使用了解！
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/forum/screenshot/Screenshot.png)
 
