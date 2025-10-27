@@ -44,9 +44,7 @@ BNBU 论坛采用 Misskey 系统，拥有移动端软件以辅助使用，请前
 
 ![Aria for Miskkey](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/forum/screenshot/1.jpg)
 
-### 基本配置
-
-#### 登陆账户
+### 登陆账户
 
 打开软件，您可以看见以下主页面：
 
@@ -62,7 +60,7 @@ BNBU 论坛采用 Misskey 系统，拥有移动端软件以辅助使用，请前
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/forum/screenshot/4.jpg)
 
-##### 浏览器验证登陆
+#### 浏览器验证登陆
 
 完成后点击验证账户，即可跳转至浏览器进行验证登陆，如下图所示：
 
@@ -86,7 +84,7 @@ BNBU 论坛采用 Misskey 系统，拥有移动端软件以辅助使用，请前
 
 请注意，如果您是在软件内进行注册的，则需要单独去设置内的个人资料处来完成其他设置，但设置与否并不会影响您的后续使用。
 
-##### 访问令牌登陆
+#### 访问令牌登陆
 
 返回到登陆页面的输入链接处，此处点击右上方的三点来选择访问令牌登陆，点击进入后您会发现第二栏即为输入访问令牌的位置。
 
@@ -98,7 +96,7 @@ BNBU 论坛采用 Misskey 系统，拥有移动端软件以辅助使用，请前
 
 需要特别注意，访问令牌是相当于个人密码一样重要的参数，在生成后应当妥善保管，以免被盗号。
 
-#### 增加浏览标签
+### 增加浏览标签
 
 回到主页面，点击中间的添加标签：
 
@@ -118,9 +116,9 @@ BNBU 论坛采用 Misskey 系统，拥有移动端软件以辅助使用，请前
 
 若想要添加更多标签卡来浏览请继续参考[进阶配置](#进阶配置)。
 
-### 进阶配置
+## 进阶配置
 
-#### 栏目
+### 栏目
 
 首先从 BNBUForum 的基本栏目开始了解：
 
@@ -145,7 +143,7 @@ BNBU 论坛采用 Misskey 系统，拥有移动端软件以辅助使用，请前
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/forum/screenshot/14.jpg)
 
-#### 其他
+## 其他
 
 1. 在更多里，BNBUForum 有内置的两个网页小游戏，并设置有排行榜
 2. 看板娘很可爱，但她还没有名字
