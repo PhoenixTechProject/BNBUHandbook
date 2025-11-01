@@ -1,4 +1,4 @@
-# BNBU 论坛
+# 💬 BNBU 论坛
 
 [BNBU 论坛](https://forum.bnbutech.cn/)现已开放，欢迎各位前来注册使用！
 

@@ -193,6 +193,7 @@ export default defineConfig({
           items: [
             { text: '📺 官方社媒', link: '/zh-cn/sns/official' },
             { text: '💬 BNBU 论坛', link: '/zh-cn/sns/BNBUForum' },
+            { text: '🛖 校内交流群', link: '/zh-cn/sns/group' },
           ],
         },
         {
