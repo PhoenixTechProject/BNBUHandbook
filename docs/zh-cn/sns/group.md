@@ -16,7 +16,7 @@
 
 | 群名 | 群号 | 介绍 | 备注 |
 | :---: | :---: | :--- | :--- |
-|  |  |  |  |
+| United HAM Club |![进群二维码](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/HamClubQR.jpg) | BNBU业余无线电爱好者的快乐老家 | 微信群 |
 
 ## 同好
 
