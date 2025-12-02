@@ -4,6 +4,7 @@ comment: false
 
 # 💬 BNBU 论坛
 
+
 [BNBU 论坛](https://forum.bnbutech.cn/)现已开放，欢迎各位前来注册使用！
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/forum/screenshot/Screenshot.png)
