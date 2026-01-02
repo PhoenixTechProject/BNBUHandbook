@@ -27,7 +27,7 @@ This is a BNBU Campus One Stop App developed by us. On BNBU Mobile you can easil
 广东省珠海市香洲区唐家湾镇金同路 2000 号北师香港浸会大学 BNBU 新文化小镇，519087
 :::
 
-![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/one.jpg)
+<iframe width="600" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=113.51265192031862%2C22.351103035445%2C113.51886391639711%2C22.353975653058868&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=18/22.352539/113.515758">View Larger Map</a></small>
 
 * Phase II Campus
 
@@ -35,7 +35,7 @@ This is a BNBU Campus One Stop App developed by us. On BNBU Mobile you can easil
 广东省珠海市香洲区唐家湾镇北师香港浸会大学二期校园 D2 一楼菜鸟驿站服务中心，519087
 :::
 
-![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
+<iframe width="600" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=113.50924015045167%2C22.360373013560988%2C113.51234614849092%2C22.361809234199214&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=19/22.361091/113.510793">View Larger Map</a></small>
 
 ## ✍️ Join collaboration
 
