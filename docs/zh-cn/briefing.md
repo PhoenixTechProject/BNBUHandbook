@@ -3,7 +3,6 @@ comment: false
 ---
 
 <script setup>
-import Weather from '../.vitepress/theme/components/Weather.vue'
 import IPInfo from '../.vitepress/theme/components/IPInfo.vue'
 import IPWeather from '../.vitepress/theme/components/IPWeather.vue'
 import lunar from '../.vitepress/theme/components/lunar.vue'
@@ -58,10 +57,6 @@ import lunar from '../.vitepress/theme/components/lunar.vue'
 :::
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
-
-## ⛅ 珠海市香洲区本周天气预报
-
-<Weather />
 
 ## 📂 恶劣天气应对方案
 <sub>2025年9月18日起实施</sub>
