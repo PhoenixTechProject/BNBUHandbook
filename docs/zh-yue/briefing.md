@@ -83,8 +83,8 @@ BNBU 手冊企劃有開官方吹水群，你可以入去同企劃負責人同其
 
 | 語言 | 連結 | 狀態 | 維護者 |
 |:-----:|:-----:|:-----:|:-----:|
-| 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton) |
-| 粵語（香港繁體） | [連結](https://bnbutech.cn/zh-yue/) | 略有滯後 🚧 | [TurboHK](https://github.com/TurboHK) |
+| 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江在下雪<sub>HanChan</sub>](https://github.com/HanChan831)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada) |
+| 粵語（香港繁體） | [連結](https://bnbutech.cn/zh-yue/) | 滯後 🚧 | [TurboHK](https://github.com/TurboHK) |
 | English | [Link](https://bnbutech.cn/en-us/) | OUT OF DATE 🚧 | [DeepL](https://www.deepl.com) |
 
 ## 貢獻者

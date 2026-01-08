@@ -8,7 +8,7 @@ import IPWeather from '../.vitepress/theme/components/IPWeather.vue'
 import lunar from '../.vitepress/theme/components/lunar.vue'
 </script>
 
-> 普通话（大陆简体）分支维护者：[寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada)
+> 普通话（大陆简体）分支维护者：[寒江在下雪<sub>HanChan</sub>](https://github.com/HanChan831)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada)
 
 > [!TIP]
 > 若您感到加载速度太慢，[点击链接](/switch)即可转换至镜像站
@@ -129,8 +129,8 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
 
 | 语言 | 链接 | 状态 | 维护者 |
 |:-----:|:-----:|:-----:|:-----:|
-| 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江雪<sub>Hamilton</sub>](https://github.com/FrostHamilton)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada) |
-| 粵語（香港繁體） | [連結](https://bnbutech.cn/zh-yue/) | 略有滯後 🚧 | [TurboHK](https://github.com/TurboHK) |
+| 普通话（大陆简体） | [链接](https://bnbutech.cn/zh-cn/) | 维护良好 ✅ | [寒江在下雪<sub>HanChan</sub>](https://github.com/HanChan831)、[谢友添<sub>TimXiedada</sub>](https://github.com/TimXiedada) |
+| 粵語（香港繁體） | [連結](https://bnbutech.cn/zh-yue/) | 滯後 🚧 | [TurboHK](https://github.com/TurboHK) |
 | English | [Link](https://bnbutech.cn/en-us/) | OUT OF DATE 🚧 | [DeepL](https://www.deepl.com) |
 
 ## ⛑️ 贡献者
