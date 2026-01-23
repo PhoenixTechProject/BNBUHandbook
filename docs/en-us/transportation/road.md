@@ -64,14 +64,16 @@ Can reach: Gongbei; Tunnel South; Tangjiawan Station (BIT Stop); Gaoxin District
 
 ### Payment Methods
 
+Normal Zhuhai bus routes charge 1 RMB fare
+
 - **Transport Cards**
 
-1. Zhuhai Tong NFC or physical card (with transfer discounts)  
-2. Any national NFC or physical card with the “T-Union” logo  
+1. Zhuhai Tong NFC or physical card (with transfer discounts<sup>[1]</sup>)  
+2. Any national NFC or physical card with the “T-Union” logo or “Lingnan Pass” logo  
 
 - **Bank Cards**
 
-UnionPay NFC or physical cards supporting password-free payment  
+UnionPay NFC or physical cards supporting password-free payment<sup>[2]</sup>  
 
 - **QR Codes**
 
@@ -80,6 +82,12 @@ Zhuhai Tong Transit QR Code, UnionPay Cloud QuickPass Transit QR Code
 - **Cash**
 
 Exact fare only (no change given, driverless ticketing)  
+
+---
+Note:
+1. For information about transfer discounts, please refer to: [Zhuhai Bus Wiki](https://w.zhbus.org/index.php?title=%E5%85%8D%E8%B4%B9%E6%8D%A2%E4%B9%98) (only in Chinese)
+2. As bank card payments rely on a real-time online deduction system, they may not work on some buses due to network issues. Please prepare an alternative payment method in advance just in case.
+---
 
 ## Zhuhai Airport Express Bus
 
