@@ -89,6 +89,36 @@ Note:
 2. As bank card payments rely on a real-time online deduction system, they may not work on some buses due to network issues. Please prepare an alternative payment method in advance just in case.
 ---
 
+### Common Station Group Transfer Guide
+
+- **Tangjiawan Intercity Railway Station <---> BIT**
+
+The two stations are about 400m apart, about a 5-minute walk.
+
+It is recommended to walk through the intercity station building during opening hours, which is air-conditioned and can save a dozen meters of walking distance.
+
+When taking Route 69/10A to Tangjiawan Intercity Railway Station and needing to transfer, you can choose to get off at BIT to transfer (saving 1 minute), or you can stay on the bus and wait for it to circle into Tangjiawan Intercity Railway Station (saving walking distance).
+
+When taking Route K3 to Tangjiawan Intercity Railway Station and needing to transfer to Z82 to return to school, it is recommended to get off at Innovation Development Building to transfer at the same station (saving 8 minutes).
+
+- **Huitong Village Entrance <---> Huitong North Road North**
+
+Huitong Village Entrance routes: 67 (to Jinding area), 998 (to Jinding/Sanxiang area), 71 (to Jinding/Jinhuan West Road)  
+Huitong North Road North route: Z82 (to Tangjiawan Station/BNBU)
+
+The estimated distance between the two stations is 500m, about a 6-minute walk.
+
+Recommended route for Huitong Village Entrance -> Huitong North Road North: (as shown in the figure)
+
+![Screenshot 2026-03-05 234059.jpg](https://files.seeusercontent.com/2026/03/05/kBh9/Screenshot-2026-03-05-234059.jpg)
+
+Following this route can significantly reduce the time spent waiting for traffic lights at the intersection. Moreover, if you spot a Z82 waiting to turn left at the intersection, there is a very high probability that you can successfully transfer at Huitong North Road North (the pedestrian crossing light turns green before the left-turn lane light<sup>[1]</sup>).
+
+---
+Note:
+1. Only applicable to the traffic light settings observed at this intersection in March 2026. Please refer to the actual situation if there are any subsequent adjustments.
+---
+
 ## Zhuhai Airport Express Bus
 
 ::: info Common route | Payment method

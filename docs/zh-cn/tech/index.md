@@ -4,6 +4,24 @@ comment: false
 
 # 🖥️ 技术文档
 
+**[宁盾令牌(Dkey Token)转换为标准TOTP](https://blog.steven53.top/p/%E5%AE%81%E7%9B%BE%E4%BB%A4%E7%89%8Cdkey-token%E8%BD%AC%E6%8D%A2%E4%B8%BA%E6%A0%87%E5%87%86totp/)**
+
+:::info
+这篇文章讲述了如何将学校使用的宁盾令牌(Dkey Token)转换为标准TOTP，以便在其他支持TOTP的应用程序中(Keepass/Bitwarden/Google Authenticator)使用
+:::
+
+**[Anyconnect校园VPN研究](https://haotian22.top/546c6c89.html)**
+
+:::info
+这篇文章介绍了学校 Anyconnect VPN 的工作原理，并提供了如何解决 Anyconnect VPN 和其他代理软件冲突的问题
+:::
+
+**[timetable-to-bg](http://uichcc.github.io/timetable-to-bg/)**
+
+:::info
+这个页面提供了实用的工具将 MIS 的课程表转换为带自定义背景的图片，或转换为 iCalendar 格式以导入到日历应用程序中
+:::
+
 施工中
 
 安 全 第 一
