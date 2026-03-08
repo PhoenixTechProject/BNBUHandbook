@@ -25,13 +25,13 @@ comment: false
 **[一鍵歸檔iSpace](https://haotian22.top/f08b4725.html)**
 
 :::info
-呢篇文章介紹咗點樣使用各種腳本一鍵下載和保存 iSpace 中的文件，以便在之後第二學期開學 iSpace 被清空後還能查看之前的文件
+呢篇文章介紹咗點樣使用各種腳本一鍵下載和保存 iSpace 中嘅文件，以便喺之後第二學期開學 iSpace 被清空後仲可以查看之前嘅文件
 :::
 
 **[moddle2mstodo](https://github.com/Rinsutoringu/moddle2mstodo)**
 
 :::info
-呢個項目旨在將 iSpace 的作業提醒轉換為 Microsoft To Do 的任務列表，方便用戶在不同的應用之間同步任務
+呢個項目旨在將 iSpace 嘅作業提醒轉換為 Microsoft To Do 嘅任務列表，方便用戶喺唔同嘅應用之間同步任務
 :::
 
 施工中
