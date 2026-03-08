@@ -31,7 +31,7 @@ This article introduces how to use various scripts to download and save files in
 **[moddle2mstodo](https://github.com/Rinsutoringu/moddle2mstodo)**
 
 :::info
-This project aims to convert iSpace assignments into Microsoft To Do task lists, making it easy to synchronize tasks across different applications.
+This project aims to convert iSpace assignment reminders into Microsoft To Do task lists, making it easy to synchronize tasks across different applications.
 :::
 
 Under Construction
