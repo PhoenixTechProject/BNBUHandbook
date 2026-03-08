@@ -22,6 +22,18 @@ comment: false
 呢個頁面提供咗實用嘅工具將 MIS 嘅課程表轉換為帶自訂背景嘅圖片，或者轉換為 iCalendar 格式以匯入到日曆應用程式中
 :::
 
+**[一鍵歸檔iSpace](https://haotian22.top/f08b4725.html)**
+
+:::info
+呢篇文章介紹咗點樣使用各種腳本一鍵下載和保存 iSpace 中的文件，以便在之後第二學期開學 iSpace 被清空後還能查看之前的文件
+:::
+
+**[moddle2mstodo](https://github.com/Rinsutoringu/moddle2mstodo)**
+
+:::info
+呢個項目旨在將 iSpace 的作業提醒轉換為 Microsoft To Do 的任務列表，方便用戶在不同的應用之間同步任務
+:::
+
 施工中
 
 安 全 第 一

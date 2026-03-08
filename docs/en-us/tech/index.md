@@ -22,6 +22,18 @@ This article introduces the working principles of the university's Anyconnect VP
 This page provides a practical tool to convert the MIS class schedule into an image with a custom background, or into iCalendar format to import into calendar applications.
 :::
 
+**[One-click Archive iSpace](https://haotian22.top/f08b4725.html)**
+
+:::info
+This article introduces how to use various scripts to download and save files in iSpace with a single click, so that you can still view previous files even after iSpace is cleared at the beginning of the next semester.
+:::
+
+**[moddle2mstodo](https://github.com/Rinsutoringu/moddle2mstodo)**
+
+:::info
+This project aims to convert iSpace assignments into Microsoft To Do task lists, making it easy to synchronize tasks across different applications.
+:::
+
 Under Construction
 
 Safety First
