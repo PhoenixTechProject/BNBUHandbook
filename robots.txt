@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /switch
+
+Sitemap: https://bnbutech.cn/sitemap.xml
