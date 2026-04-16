@@ -1,0 +1,42 @@
+name: Sync to Release Repo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repo (BNBUHandbook)
+        uses: actions/checkout@v3
+
+      - name: Clone target repo (BNBUHandbookRelease)
+        run: |
+          cd ..
+          git clone https://${{ secrets.PHOENIX_SYNC_TOKEN }}@github.com/PhoenixTechProject/BNBUHandbookRelease.git release
+          cd release
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Copy changed files to release repo (excluding workflows)
+        run: |
+          cd ../BNBUHandbook
+          rsync -av \
+            --exclude='.git' \
+            --exclude='.github/' \
+            --exclude='.gitignore' \
+            ./ ../release/
+
+      - name: Commit and push changes
+        run: |
+          cd ../release
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Sync from BNBUHandbook main"
+            git push https://${{ secrets.PHOENIX_SYNC_TOKEN }}@github.com/PhoenixTechProject/BNBUHandbookRelease.git HEAD:main
+          fi
