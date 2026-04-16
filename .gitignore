@@ -1,6 +1,1 @@
-docs/.vitepress/cache
-docs/.vitepress/dist
-node_modules
-# package-lock.json BEACUSE GITHUB ACTIONS NEED THIS FILE FOR RAPID INSTALLATION
-
 .DS_Store
