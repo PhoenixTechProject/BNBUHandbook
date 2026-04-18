@@ -12,11 +12,18 @@ comment: false
 
 在这里你可以获取 BNBU 的绝大部分资讯，同时这也是前人所留下有价值的信息遗产，有助你在未来四年的本科生涯中弯道超车 。
 
+## BNBU 百科手册协会交流群
+
+| 平台 | 加入链接 | 备注 |
+|:-----:|:-----:|-----|
+| QQ | 728748053 | [加入QQ群链接](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ejKjdzW7m2tkPNBkr9TnpyLVlqkmwK2i&authKey=tjAdsSTxOpqKKdyGO1Ly0tUDhA5tYroipoTbz4l8d%2FGywQud43dgCYzpg%2Bk9P%2Fj7&noverify=0&group_code=728748053) |
+| 微信 | 邀请制 |  |
+
 ## BNBU 论坛
 
 [BNBU 论坛](https://forum.bnbutech.cn/)现已开放，欢迎各位前来注册使用！
 
-请前往本手册内的[ BNBU 论坛](/zh-cn/sns/BNBUForum)一栏进行使用了解！
+请前往本手册内的[BNBU 论坛](/zh-cn/sns/BNBUForum)一栏进行使用了解！
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/forum/screenshot/Screenshot.png)
 
@@ -43,64 +50,39 @@ comment: false
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
 
-## 📂 恶劣天气应对方案
-<sub>2025年9月18日起实施</sub>
-
-* **🌀 台风**
-
-| 图标信号 | 文字信号 | 实施方案 |
-|:-----:|:-----:|-----|
-| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Red_typhoon_alert_-_China.svg) | 台风红色预警信号 | 1. 如在早上 6 点至 10 点 59 分之间生效，则上午 8 点至下午 1 点 50 分之间的课程/考试将被取消。 2. 如在上午 11 点起生效，下午 2 点至晚上 9 点 50 分之间的课程/考试将被取消。3. 如在上课期间生效，课程立即取消。4. 如在在考试期间生效，考试将持续到结束为止。 |
-| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Orange_typhoon_alert_-_China.svg) | 台风橙色预警信号 | 1. 如在早上 6 点至 10 点 59 分之间生效，则上午 8 点至下午 1 点 50 分之间的课程/考试将被取消。 2. 如在上午 11 点起生效，下午 2 点至晚上 9 点 50 分之间的课程/考试将被取消。3. 如在上课期间生效，课程立即取消。4. 如在在考试期间生效，考试将持续到结束为止。 |
-| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Yellow_typhoon_alert_-_China.svg) | 台风黄色预警信号 | 课程、考试将按原计划进行。 |
-| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Blue_typhoon_alert_-_China.svg) | 台风蓝色预警信号 | 课程、考试将按原计划进行。 |
-| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Typhoon_White_2015_(Guangdong).png) | 台风白色预警信号 | 课程、考试将按原计划进行。 |
-
-<sub>如果台风红色信号或橙色信号在上午 10 点 59 分生效，但在上午 11 点降至台风黄色信号、蓝色信号、白色信号，则下午的上课、考试（如在下午 2 点至晚上 9点 50 分之间）照常进行</sub>
-
-* **⛈️ 暴雨**
-
-| 图标信号 | 文字信号 | 实施方案 |
-|:-----:|:-----:|-----|
-| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Red_rain_storm_alert_-_China.svg) | 暴雨红色预警信号 | 1. 如在早上 6 点至 上午 10 点 59 分之间生效，则上午 8 点至晚上 9 点 50 分之间的课程/考试将被取消。 2. 如在中午 12 点起生效，下午 2 点至晚上 9 点 50 分之间的课程/考试将被取消。3. 如在上课期间生效，课程立即取消。4. 如在在考试期间生效，考试将持续到结束为止。 |
-| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Orange_rain_storm_alert_-_China.svg) | 暴雨橙色预警信号 | 课程、考试将按原计划进行。 |
-| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Yellow_rain_storm_alert_-_China.svg) | 暴雨黄色预警信号 | 课程、考试将按原计划进行。 |
-| ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/alarm/Blue_rain_storm_alert_-_China.svg) | 暴雨蓝色预警信号 | 课程、考试将按原计划进行。 |
-
-<sub>如果暴雨红色预警信号在上午 6 点 至 11 点 59 分之间生效，则无论什么时候全天的课程、考试都将被取消</sub>
-
 ## ✍️ 加入协作
 
 本手册采用协作编辑制度，这代表着您可以加入企划并参与条目的编辑。
 
 ### ⌨️ 具有编程基础
 
-在每一页的页尾处，您可以发现写有“参与编辑”的超链接，点击链接即可以跳转到 GitHub 项目对应的文件处，请 Fork 至自有仓库后进行修改，编辑完成后提出 Contribute 请求，经审查后等待 Merge 完成。
+在每一页的页尾处，您可以发现写有“参与编辑”的超链接，点击链接即可以跳转到 GitHub 项目对应的文件处，请 Fork 至自有仓库后进行修改，编辑完成后提出 Contribute 请求，**但请严格遵守下列编辑规范**。
 
-* **快速上手（推荐）**
+* **修复或添加已有页面的信息**
 
-本项目已使用 Actions 自动推送页面，因此您可以直接 Fork main分支，然后对特定的 Markdown 文件进行修改即可。
+请切换至 hotfix 分支，并在修改完成后提交。
 
-* **完全配置**
+* **建立新页面**
 
-请参照 package.json 与 workflows 下的 .yml 文件进行环境配置，这样您可以本地参照完修改后的效果再进行 Contribute。有关于本项目的更多信息请浏览“关于”栏目。
+1. 如您熟悉 git 指令，请在建立新页面信息后提交新的分支，命名为 feature/xxx，xxx是您新加入信息的简称。
+2. 如您不了解 git 指令，请直接去 dev 分支修改提交。
 
 ### 🔰 我是新手
 
-* 在 GitHub 上
+* **在 GitHub 上**
 
-即便是电脑新手亦可以加入任何一个条目的编辑，在本页的末尾处，我们提供了本项目的地址，请在 Discussions 区与 Issue 区参与讨论或提出问题。
+即便是电脑新手亦可以加入任何一个条目的编辑，在页面右上角的 Github 图标处，我们提供了本项目的地址，请在 Issue 区参与讨论或提出问题。
 
-* 联系企划组
+* **联系企划组**
 
 BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划负责人在内的其他同好进行沟通与交流。
 
 | 平台 | 加入链接 | 备注 |
 |:-----:|:-----:|-----|
-| QQ | 728748053 |  |
-| 微信 | 邀请制 | 对昵称有实名要求 |
+| QQ | 728748053 | [加入QQ群链接](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ejKjdzW7m2tkPNBkr9TnpyLVlqkmwK2i&authKey=tjAdsSTxOpqKKdyGO1Ly0tUDhA5tYroipoTbz4l8d%2FGywQud43dgCYzpg%2Bk9P%2Fj7&noverify=0&group_code=728748053) |
+| 微信 | 邀请制 |  |
 
-* 官方邮箱
+* **官方邮箱**
 
 > [service@bnbutech.cn](mailto:service@bnbutech.cn)
 
@@ -138,5 +120,3 @@ BNBU 手册企划建有官方聊天群，您可以选择进入并与包括企划
 全站知识资源未做特别声明，均采用 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议进行分发。
 
 <img src=https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/icon/rect-by-nc-sa.png width=10% />
-
-
