@@ -34,6 +34,11 @@ comment: false
 这个项目旨在将 iSpace 的作业提醒转换为 Microsoft To Do 的任务列表，方便用户在不同的应用之间同步任务
 :::
 
+**[BNBU校园建设图纸](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy83RERFQTcyRjc3RDgzQzY5L0lnQ1hNWWZfam8xVVFha0RjUlh5UWUxdEFYNnNPVzB6S191UzlDX0lKUTM2bGZrP2U9S3ZoblZP&id=7DDEA72F77D83C69%21sff8731978d8e4154a9037115f241ed6d&cid=7DDEA72F77D83C69)**
+:::info
+这个链接收集了 BNBU 的校园建设图纸，方便用户了解学校的建筑布局和结构设计
+:::
+
 施工中
 
 安 全 第 一

@@ -34,6 +34,11 @@ comment: false
 呢個項目旨在將 iSpace 嘅作業提醒轉換為 Microsoft To Do 嘅任務列表，方便用戶喺唔同嘅應用之間同步任務
 :::
 
+**[BNBU校園建設圖紙](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy83RERFQTcyRjc3RDgzQzY5L0lnQ1hNWWZfam8xVVFha0RjUlh5UWUxdEFYNnNPVzB6S191UzlDX0lKUTM2bGZrP2U9S3ZoblZP&id=7DDEA72F77D83C69%21sff8731978d8e4154a9037115f241ed6d&cid=7DDEA72F77D83C69)**
+:::info
+呢個連結收集咗BNBU嘅校園建設圖紙，方便用戶了解學校嘅建築佈局同結構設計
+:::
+
 施工中
 
 安 全 第 一
