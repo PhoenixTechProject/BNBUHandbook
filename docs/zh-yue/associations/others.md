@@ -57,3 +57,9 @@ Enactus創行創立於2008年，係一個青年體驗式學習成長平台。我
 <p align="center">
   <img src="https://sao.uic.edu.cn/virtual_attach_file.vsb?afc=NL49TDLmAkUzTfMtz-anzMVUm-4o77jboR-DLz6VozNYLzl0gihFp2hmCIa0n1h2USyYLkyinlW2U8LPnzGYMzVVn7nVLzARUm-aoR94M4nFMR9iLRCZLzrFn7rRoSbaptveo4Oe6ITm5sMApYhXptQ0g47PMzG0Lz-bLkbw62w8c&tid=1150&nid=1290&e=.png" width="100" height="100" />
 </p>
+
+## 貓U匯
+BNBU非正式流浪貓TNR與救助組織，係一個BNBU愛貓同學自發形成嘅團體。
+<p align="center">
+  <img src="https://open.weixin.qq.com/qr/code?username=UIC_MEOW" width="100" height="100" />
+</p>

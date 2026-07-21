@@ -131,6 +131,8 @@ SCC 文化与创意学院
   <img src="https://open.weixin.qq.com/qr/code?username=BNBU_SCC" width="100" height="100" />
 </p>
 
+## 专业学会
+
 AIM 专学
 <p align="center">
   <img src="https://open.weixin.qq.com/qr/code?username=gh_218dadbf27ee" width="100" height="100" />
