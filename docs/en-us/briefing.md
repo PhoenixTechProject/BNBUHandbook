@@ -37,6 +37,38 @@ Interactive map portal: <https://u-map.haotian22.top>
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
 
+## 📚 Course Platforms
+
+During course selection, the following platforms can provide course information and evaluation references:
+
+### 咋样？（zayang.icu）
+
+[咋样？](https://zayang.icu/) is a campus evaluation platform focused on real reviews for courses and instructors.
+
+* **Features**:
+  * Search courses and instructors, view real ratings and reviews
+  * Covers 766 instructors and 1,486 courses
+  * Provides objective data from BNBU official directory
+* **How to Use**:
+  * Visit [zayang.icu](https://zayang.icu/)
+  * Login unlocks all reviews, allows posting comments, and community interaction
+
+### CourseDB（mis.bnbu.moe）
+
+[CourseDB](https://mis.bnbu.moe/) is a comprehensive course information platform offering extensive course data and practical tools.
+
+* **Features**:
+  * Browse 1.8k courses, view 323 reviews, learn about 869 instructors
+  * Provides 35 program handbooks
+  * Practical tools: Course Planner, Timetable Generator, GPA Calculator, Classroom Occupancy Query
+* **How to Use**:
+  * Visit [mis.bnbu.moe](https://mis.bnbu.moe/)
+  * Browse courses and search information directly without login
+
+::: tip Course Selection Advice
+Both platforms have their strengths: **咋样？** focuses on student reviews and community interaction, while **CourseDB** focuses on course data and planning tools. It is recommended to use both together for more comprehensive course selection reference.
+:::
+
 ## ✍️ Join collaboration
 
 This manual uses a collaborative editing system, which means that you can join the project and participate in editing entries.
