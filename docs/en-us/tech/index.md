@@ -35,6 +35,7 @@ This project aims to convert iSpace assignment reminders into Microsoft To Do ta
 :::
 
 **[BNBU Campus Construction Drawings](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy83RERFQTcyRjc3RDgzQzY5L0lnQ1hNWWZfam8xVVFha0RjUlh5UWUxdEFYNnNPVzB6S191UzlDX0lKUTM2bGZrP2U9S3ZoblZP&id=7DDEA72F77D83C69%21sff8731978d8e4154a9037115f241ed6d&cid=7DDEA72F77D83C69)**
+
 :::info
 This link provides BNBU's campus construction drawings, making it easy for users to understand the school's architectural layout and structural design.
 :::
