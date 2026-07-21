@@ -19,6 +19,8 @@ comment: false
 
 ## 🗺️ 校園地圖
 
+互動式地圖入口：<https://u-map.haotian22.top>
+
 * **一期校園**  
 
 ::: info 速遞地址及郵區編號
@@ -30,7 +32,7 @@ comment: false
 * **二期校園**
 
 ::: info 速遞地址及郵區編號
-广东省珠海市香洲区唐家湾镇北师香港浸会大学二期校园 D2 一楼菜鸟驿站服务中心，519087
+广东省珠海市香洲区唐家湾镇北师香港浸会大学二期校园 D4 一楼菜鸟驿站服务中心，519087
 :::
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)

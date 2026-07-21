@@ -18,6 +18,9 @@ This is a BNBU Campus One Stop App developed by us. On BNBU Mobile you can easil
 <br><br>![BNBU Mobile](http://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/pic/BNBU_Mobile_16x9_Enlarged.png)
 
 ## 🗺️ Campus Map
+
+Interactive map portal: <https://u-map.haotian22.top>
+
 * Phase I Campus
 
 ::: info Address and ZIP Code
@@ -29,7 +32,7 @@ This is a BNBU Campus One Stop App developed by us. On BNBU Mobile you can easil
 * Phase II Campus
 
 ::: info Address and ZIP Code
-广东省珠海市香洲区唐家湾镇北师香港浸会大学二期校园 D2 一楼菜鸟驿站服务中心，519087
+广东省珠海市香洲区唐家湾镇北师香港浸会大学二期校园 D4 一楼菜鸟驿站服务中心，519087
 :::
 
 ![](https://cdn.jsdelivr.net/gh/PhoenixTechProject/HandbookPicBed/map/two.jpg)
