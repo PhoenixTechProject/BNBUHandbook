@@ -93,7 +93,12 @@ BNBU学生事务处兴趣社团管理会
 
 BNBU学生会干事会
 <p align="center">
-  <img src="https://open.weixin.qq.com/qr/code?username=BNBU_STU" width="100" height="100" />
+  <img src="https://open.weixin.qq.com/qr/code?username=UICSU_2019" width="100" height="100" />
+</p>
+
+LRC 学习资源中心
+<p align="center">
+  <img src="https://open.weixin.qq.com/qr/code?username=BNBULRC" width="100" height="100" />
 </p>
 
 GS 研究生院

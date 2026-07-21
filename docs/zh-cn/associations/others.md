@@ -57,3 +57,10 @@ Enactus 创行 创立于 2008 年，是一个青年体验式学习成长平台�
 <p align="center">
   <img src="https://sao.uic.edu.cn/virtual_attach_file.vsb?afc=NL49TDLmAkUzTfMtz-anzMVUm-4o77jboR-DLz6VozNYLzl0gihFp2hmCIa0n1h2USyYLkyinlW2U8LPnzGYMzVVn7nVLzARUm-aoR94M4nFMR9iLRCZLzrFn7rRoSbaptveo4Oe6ITm5sMApYhXptQ0g47PMzG0Lz-bLkbw62w8c&tid=1150&nid=1290&e=.png" width="100" height="100" />
 </p>
+
+## 猫U汇
+BNBU非正式流浪猫TNR与救助组织，是一个BNBU爱猫同学自发形成的团体。
+<p align="center">
+  <img src="https://open.weixin.qq.com/qr/code?username=UIC_MEOW" width="100" height="100" />
+</p>
+
