@@ -168,6 +168,13 @@ export default defineConfig({
           ],
         },
         {
+          text: '📋 办事流程',
+          collapsed: false,
+          items: [
+            { text: '🏥 异地就医', link: '/zh-cn/workflows/medical' },
+          ]
+        },
+        {
           text: '🎠 社团',
           collapsed: false,
           items: [
@@ -184,6 +191,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '🖥️ 技术文档', link: '/zh-cn/tech/' },
+            { text: '📚 编辑指南', link: '/zh-cn/tech/handbookguidance' },
           ],
         },
         {
@@ -276,6 +284,13 @@ export default defineConfig({
           ],
         },
         {
+          text: '📋 辦事流程',
+          collapsed: false,
+          items: [
+            { text: '🏥 異地就醫', link: '/zh-yue/workflows/medical' },
+          ]
+        },
+        {
           text: '🎠 社團',
           collapsed: false,
           items: [
@@ -292,6 +307,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '🖥️ 技術文檔', link: '/zh-yue/tech/' },
+            { text: '📚 編輯指南', link: '/zh-yue/tech/handbookguidance' },
           ],
         },
         {
@@ -381,6 +397,13 @@ export default defineConfig({
           ],
         },
         {
+          text: '📋 Workflows',
+          collapsed: false,
+          items: [
+            { text: '🏥 Medical Treatment Away from Home', link: '/en-us/workflows/medical' },
+          ]
+        },
+        {
           text: '🎠 Student Associations',
           collapsed: false,
           items: [
@@ -397,6 +420,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '🖥️ Technical Documentation', link: '/en-us/tech/' },
+            { text: '📚 Editor Guide', link: '/en-us/tech/handbookguidance' },
           ],
         },
         {
